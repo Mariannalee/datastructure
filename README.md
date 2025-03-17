@@ -10,7 +10,8 @@
 
 相關影片：https://youtu.be/YCsPRpge7pY
 
-![Uploading 螢幕擷取畫面 2025-03-17 234137.png…]()
+![螢幕擷取畫面 2025-03-17 234137](https://github.com/user-attachments/assets/f0518a58-74d9-4bd9-a935-7e1342e1f4e9)
+
 
 
 
