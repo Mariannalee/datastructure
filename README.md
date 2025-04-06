@@ -1,4 +1,5 @@
 x資料結構
+[全部作業原始碼](ttps://github.com/Mariannalee/data-structure)
 
 李孟潔
 
@@ -8,7 +9,8 @@ x資料結構
 
 程式內容再DataAgent2.pyS
 
-[原始碼](https://github.com/Mariannalee/data-structure)
+
+[原始碼]([https://github.com/Mariannalee/data-structure](https://github.com/Mariannalee/data-structure/blob/main/DataAgent2.py))
 
 [相關影片](https://youtu.be/YCsPRpge7pY)
 
