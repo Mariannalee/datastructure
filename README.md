@@ -1,4 +1,4 @@
-x資料結構
+###資料結構
 
 [全部作業原始碼](https://github.com/Mariannalee/data-structure)
 
@@ -6,7 +6,7 @@ x資料結構
 
 期末專題報告
 
-作業一：
+##作業一：
 
 本次作業利用多個AI Agent進行資料分析，提供一篇文章請AI agent整理相關字彙，並透過網路搜尋相關的延伸單字，並提供例句。_
 
@@ -22,9 +22,9 @@ x資料結構
   <img src="https://github.com/user-attachments/assets/f0518a58-74d9-4bd9-a935-7e1342e1f4e9" alt="圖片描述" width="400"/>
 </details>
 
-作業二：
+##作業二：
 
-作業三：
+##作業三：
 
 本次作業利用playwright模組，自動上傳圖文至thread並自動發文。
 
