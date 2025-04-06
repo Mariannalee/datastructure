@@ -10,7 +10,7 @@ x資料結構
 程式內容再DataAgent2.pyS
 
 
-[原始碼]([https://github.com/Mariannalee/data-structure](https://github.com/Mariannalee/data-structure/blob/main/DataAgent2.py)
+[原始碼](https://github.com/Mariannalee/data-structure/blob/main/postAI.py)
 
 [相關影片](https://youtu.be/YCsPRpge7pY)
 
