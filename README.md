@@ -10,7 +10,7 @@ x資料結構
 
 本次作業利用多個AI Agent進行資料分析，提供一篇文章請AI agent整理相關字彙，並透過網路搜尋相關的延伸單字，並提供例句。_
 
-程式內容再DataAgent2.pyS
+程式內容在DataAgent2.pyS
 
 
 [原始碼](https://github.com/Mariannalee/data-structure/blob/main/postAI.py)
