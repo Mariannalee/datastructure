@@ -14,6 +14,13 @@ x資料結構
 
 [相關影片](https://youtu.be/YCsPRpge7pY)
 
+<details>
+  <summary>照片</summary>
+
+  <img src="https://github.com/user-attachments/assets/f0518a58-74d9-4bd9-a935-7e1342e1f4e9" alt="圖片描述" width="400"/>
+</details>
+
+
 ![螢幕擷取畫面 2025-03-17 234137](https://github.com/user-attachments/assets/f0518a58-74d9-4bd9-a935-7e1342e1f4e9)
 
 作業二：
