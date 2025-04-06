@@ -14,8 +14,7 @@ x資料結構
 
 
 [原始碼](https://github.com/Mariannalee/data-structure/blob/main/postAI.py)
-
-[相關影片](https://youtu.be/YCsPRpge7pY)
+ [相關影片](https://youtu.be/YCsPRpge7pY)
 
 <details>
   <summary>照片</summary>
@@ -32,8 +31,7 @@ x資料結構
 程式內容在postAI.py
 
 [原始碼](https://github.com/Mariannalee/data-structure/blob/main/postAI.py)
-
-[相關影片](https://youtu.be/9vJVQKTaES0)
+ [相關影片](https://youtu.be/9vJVQKTaES0)
 
 <details>
 <summary>照片</summary>
