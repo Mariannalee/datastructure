@@ -24,7 +24,7 @@
 
 <h2>作業二⭐️：</h2>
 
-本次作業利用gemini分析日文文章難易度，包括字彙的級數(N1~N5)，文章以句號分段，每段為一欄進行分析，以評估該文章是否符合程度。
+本次作業利用gemini分析日文文章難易度，包括字彙的級數(N1~N5)，並統計各級數的總字彙量，文章以句號分段，每段為一欄進行分析，以評估該文章是否符合程度。
 
 [原始碼](https://github.com/Mariannalee/data-structure/blob/main/analyze.py)
 
@@ -32,8 +32,8 @@
   <summary>照片</summary>
 
   <img src="https://github.com/user-attachments/assets/b42ce8ed-41ed-4b57-bcec-98bce8905b05" alt="圖片描述" width="400"/>
+  <img src="https://github.com/user-attachments/assets/bc55513b-8ede-42e2-89ae-37c6926d413c" alt="圖片描述" width="400"/>
 </details>
-
 
 <h2>作業三⭐️：</h2>
 
