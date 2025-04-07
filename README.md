@@ -27,7 +27,7 @@
 <details>
   <summary>照片</summary>
 
-  <img src="https://github.com/user-attachments/assets/f4a3f068-0efd-4e14-aafc-2d250edb574e=" alt="圖片描述" width="400"/>
+  <img src="https://github.com/user-attachments/assets/e68bc9f6-c65d-4d92-9f12-128ca4293a9f" alt="圖片描述" width="400"/>
 </details>
 
 
