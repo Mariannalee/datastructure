@@ -24,6 +24,13 @@
 
 <h2>作業二⭐️：</h2>
 
+<details>
+  <summary>照片</summary>
+
+  <img src="https://github.com/user-attachments/assets/f4a3f068-0efd-4e14-aafc-2d250edb574e="圖片描述" width="400"/>
+</details>
+
+
 <h2>作業三⭐️：</h2>
 
 本次作業利用playwright模組，自動上傳圖文至thread並自動發文。
