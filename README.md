@@ -24,10 +24,14 @@
 
 <h2>作業二⭐️：</h2>
 
+本次作業利用gemini分析日文文章難易度，包括字彙的級數(N1~N5)，文章以拒後分段，每段為一欄進行分析，以評估該文章適合或是所需要的語言程度。
+
+[原始碼](https://github.com/Mariannalee/data-structure/blob/main/analyze.py)
+
 <details>
   <summary>照片</summary>
 
-  <img src="https://github.com/user-attachments/assets/e68bc9f6-c65d-4d92-9f12-128ca4293a9f" alt="圖片描述" width="400"/>
+  <img src="https://github.com/user-attachments/assets/b42ce8ed-41ed-4b57-bcec-98bce8905b05" alt="圖片描述" width="400"/>
 </details>
 
 
