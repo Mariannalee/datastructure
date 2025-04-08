@@ -27,6 +27,7 @@
 本次作業利用gemini分析日文文章難易度，包括字彙的級數(N1~N5)，並統計各級數的總字彙量，文章以句號分段，每段為一欄進行分析，以評估該文章是否符合程度。
 
 程式內容在analyze.py
+
 [原始碼](https://github.com/Mariannalee/data-structure/blob/main/analyze.py)
 
 <details>
