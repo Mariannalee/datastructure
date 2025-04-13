@@ -52,6 +52,19 @@
 <img src="https://github.com/user-attachments/assets/0f5c3c49-f6e7-47d0-9de0-10fb7133620f" alt="圖片描述" width="400"/>
 </details>
 
+<h2>作業四⭐️：</h2>
+
+本次作業將分析文章，根據上次作業三，將分級的單字一一輸出，並一每句列表。
+
+<details>
+<summary>照片</summary>
+
+<img src="https://github.com/user-attachments/assets/cc309bac-ed77-4258-bcc9-4d5947cdcf7a" alt="圖片描述" width="400"/>
+<img src="https://github.com/user-attachments/assets/441bc4a7-a234-46e2-9120-f61e5053efb8" alt="圖片描述" width="400"/>
+</details>
+
+
+
 
 
 
