@@ -54,7 +54,11 @@
 
 <h2>作業四⭐️：</h2>
 
-本次作業將分析文章，根據上次作業三，將分級的單字一一輸出，並一每句列表。
+本次作業將分析文章，根據上次作業三，將分級的單字一一輸出，並一每句列表。(ps.PDF檔案有點跑版，之後會繼續修正)
+
+[原始碼](https://github.com/Mariannalee/data-structure/blob/main/GetPDF%2B.py)
+[生成的PDF](https://github.com/Mariannalee/data-structure/blob/main/%E8%A9%9E%E5%BD%99%E7%AD%89%E7%B4%9A%E5%A0%B1%E5%91%8A.pdf)
+
 
 <details>
 <summary>照片</summary>
