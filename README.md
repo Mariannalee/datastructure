@@ -69,6 +69,19 @@
 
 </details>
 
+<h2>作業五⭐️：</h2>
+
+本次作業透過generate_jlpt_difficulty_plot請gemini針對以上傳的文章，分析並匯出文章中語句的難易度折線圖，分析方式為若含a個N1等級字彙則將當句的數值增加a*5，b個N2等級字彙則加b*4，以此類推到e*1，最後算總平均(總數/a+b+c+d+e)來判斷文章的相對及絕對難易度。
+
+[原始碼](https://github.com/Mariannalee/data-structure2/tree/main)
+
+<details>
+  <summary>照片</summary>
+
+  <img src="https://github.com/user-attachments/assets/a0008d1b-e50e-43be-864b-4e96ea43067f" alt="圖片描述" width="400"/>
+  <img src="https://github.com/user-attachments/assets/f47a4be9-0ccb-4d6a-b305-81342c499ad4"alt="圖片描述" width="400"/>
+</details>
+
 
 
 
